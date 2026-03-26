@@ -1,1 +1,1 @@
-# heart-failure-ml-classification
+# heart-failure-classification
